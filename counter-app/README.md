@@ -23,4 +23,5 @@ This is a functional Counter App built using ReactJS, showcasing React fundament
 ---
 
 👨‍💻 Made with ❤️ by [Nitya Gopal Jena](https://www.linkedin.com/in/nitya-gopal-jena/)
+
 🌟 Follow me on [GitHub](https://github.com/Nityagopaljena98)
